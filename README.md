@@ -1,6 +1,7 @@
 # Resources for my SMP
 
-Install Fabric for 1.16.4 and copy the `mods` folder into `.minecraft`. Of course, you can install additional mods yourself like Optifabric/Optifine or a minimap mod, but these are needed to take full advantage of the server's QoL features.  
+Install Fabric for 1.16.4 and copy the `mods` folder into `.minecraft`. Also, put `offlineskins.json` into `.minecraft/config`.  
+Of course, you can install additional mods yourself like Optifabric/Optifine or a minimap mod, but these are needed to take full advantage of the server's QoL features.  
 _Appleskin_ lets you see more detailed info on hunger.  
 _OfflineSkins_ pings this GitHub server and gets skins for people without accounts.  
 _Reroll_ lets you change enchantments for better ones in the Enchantment Table.
