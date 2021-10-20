@@ -17,4 +17,6 @@ _info_horse_ shows the stats of horses when you ride them.
 _leash-villager_ lets you leash villagers.  
 _Recipes+_ adds handy recipes, like dyeing beds, crafting bells, saddles, and nametags.
 
+If you're playing without an official account, download [this](https://github.com/gmag224/MultiMC5-Offline).
+
 Skin server based on https://github.com/64-Tesseract/mc-skin-server
