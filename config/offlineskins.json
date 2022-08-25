@@ -1,5 +1,5 @@
 {
-  "useMojang": false,
+  "useMojang": true,
   "useCrafatar": false,
   "useCustomServer": false,
   "useCustomServer2": true,
