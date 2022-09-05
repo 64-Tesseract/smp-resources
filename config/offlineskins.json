@@ -1,7 +1,9 @@
 {
-  "useMojang": false,
+  "useMojang": true,
   "useCrafatar": false,
-  "useCustomServer": true,
-  "hostCustomServerSkin": "https://raw.githubusercontent.com/64-Tesseract/mc-skin-server-personal/master/skins/%name%.png",
-  "hostCustomServerCape": "https://raw.githubusercontent.com/64-Tesseract/mc-skin-server-personal/master/capes/%name%.png"
+  "useCustomServer": false,
+  "hostCustomServer": "",
+  "useCustomServer2": false,
+  "hostCustomServer2Skin": "",
+  "hostCustomServer2Cape": ""
 }

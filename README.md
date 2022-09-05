@@ -2,4 +2,4 @@
 
 Runs on [Forge for 1.18.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html)
 
-Copy both `mods` & `config` folders into your `.minecraft`.  
+Copy all 3 folders into your `.minecraft`.  
